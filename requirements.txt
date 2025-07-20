@@ -11,3 +11,6 @@ pydot
 janitor
 statsmodels
 missingno
+plotly
+scipy
+geopandas
